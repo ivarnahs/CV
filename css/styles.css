@@ -1,0 +1,52 @@
+body {
+  background-color:powderblue;
+  font-family:sans-serif;
+  font-kerning: normal;
+}
+  hr {
+    border-style:dotted none none;
+    border-color:grey;
+    border-width:6px;
+    width:50%;
+  }
+  table {
+    border-width: medium;
+    color:red;
+    direction: ltr;
+    font-size:12px;
+  }
+  img {
+    height:132px;
+  }
+  h1 {
+    color:darkblue;
+    font-size:24px;
+  }
+  h3{
+    color:darkblue;
+    font-size:16px;
+  }
+  h2{
+    color:darkred;
+    font-size:20px;
+  }
+  input {
+    background-color: blue;
+  }
+/**************CLASSES**********************/
+.contact {
+  width:100px;
+  background-color:green;
+}
+.favorite {
+  width: 100px;
+  background-color:red;
+}
+.hobby {
+  width:100px;
+  background-color:blue;
+}
+.school {
+  width:100px;
+  background-color:yellow;
+}
